@@ -1,0 +1,29 @@
+*.pdb
+# Solution catalog
+.vs/
+LuxuryWebAIOv1/.vs/
+.vscode/
+
+# Project debug assets
+LuxuryWebAIOv1/App_Data/
+# LuxuryWebAIOv1/bin/LuxuryWebAIOv1.pdb
+# LuxuryWebAIOv1/bin/LuxuryWebAIOv1.dll
+# LuxuryWebAIOv1/obj/Debug/LuxuryWebAIOv1.csproj.AssemblyReference.cache
+# LuxuryWebAIOv1/obj/Debug/LuxuryWebAIOv1.csproj.CopyComplete
+# LuxuryWebAIOv1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+# LuxuryWebAIOv1/obj/Debug/LuxuryWebAIOv1.pdb
+LuxuryWebAIOv1/bin/*
+!/LuxuryWebAIOv1/bin/roslyn/
+
+# Private config 
+LuxuryWebAIOv1/Web.config
+LuxuryWebAIOv1/Web.Debug.config
+LuxuryWebAIOv1/Web.Release.config 
+
+# Resources folder
+LuxuryWebAIOv1/Resources/
+# Bootstrap CSS / JS shipped by NuGet
+LuxuryWebAIOv1/Content/
+LuxuryWebAIOv1/Scripts/
+# Test place
+LuxuryWebAIOv1/Test

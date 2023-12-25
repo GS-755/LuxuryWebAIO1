@@ -27,3 +27,5 @@ LuxuryWebAIOv1/Content/
 LuxuryWebAIOv1/Scripts/
 # Test place
 LuxuryWebAIOv1/Test
+# SQL Testcase
+LuxuryWebAIOv1/Resources/Query/TestCase.sql
